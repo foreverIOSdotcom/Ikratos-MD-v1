@@ -223,8 +223,8 @@
    conn.sSubject = 'Group name has been changed, new name: \n@subject' 
    conn.sIcon = 'Icon updated!' 
    conn.sRevoke = 'Link group updated, new link \n@revoke' 
-   conn.sAnnounceOn = 'Group telah di tutup!\nsekarang hanya admin yang dapat mengirim pesan.' 
-   conn.sAnnounceOff = 'Group telah di buka!\nsekarang semua peserta dapat mengirim pesan.' 
+   conn.sAnnounceOn = 'This group is being announced by AlanZaaiter.' 
+   conn.sAnnounceOff = 'This group stopped being announced by AlanZaaiter.' 
    conn.sRestrictOn = 'Edit Info Group changed  to only admin!' 
    conn.sRestrictOff = 'Edit Info Group is changed to all participants!' 
   
