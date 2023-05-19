@@ -41,27 +41,27 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = 'https://instagram.com/itx_ahmad.ali' //Link Instagrammu
-global.sgh = 'https://github.com/xIKRATOSx' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DxIb5oWzpg24mmg9D9zw5Y'
+global.sig = 'https://instagram.com/who_alan_is' //Link Instagrammu
+global.sgh = 'https://github.com/foreverIOSdotcom' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/fpwuifh7ieIhd42few'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
-global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
+global.snh = '-' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '96181891266' //Nomor Danamu
+global.ppulsa = '96181891266' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '96181891266' //Nomor Bot
+global.nomorown = '96181891266' //Nomor Owner
+global.namebot = 'LateNight' //Nama Bot
+global.nameown = 'Alan' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
-global.openAiapi = 'PASTE_YOUR_API_HERE'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
-global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
+global.openAiapi = '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'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
+global.org = 'org-5uIS7l2uVGnGICX9OG1Phkat'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
 
 /*============== STAFF ==============*/
 global.owner = [
@@ -105,16 +105,16 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ahmad Ali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷'
-global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813`
-global.fig = `Follow me on instagram:\n\t\tinstagram.com/itx_ahmad.ali`
+global.wm = '「 LateNight 」' //Main Watermark
+global.wm2 = 'LateNight'
+global.wm3 = 'LateNight'
+global.footerTXT = `LateNight`
+global.fig = `Follow me on instagram:\n\t\tinstagram.com/who_alan_is`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ ɪᴋʀᴀᴛᴏs ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ LateNight whatsapp bot'
 global.author = global.wm
-global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
+global.logo = 'https://ibb.co/2h79fxR'
 
 
 
@@ -124,7 +124,7 @@ global.thumb2 = 'https://i.ibb.co/cc8jfkX/01.jpg'
 global.thumbbc = 'https://i.ibb.co/cc8jfkX/01.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumblvlup = 'https://i.ibb.co/cc8jfkX/01.jpg'
-global.hwaifu = ['https://i.ibb.co/cc8jfkX/01.jpg']
+global.hwaifu = ['https://ibb.co/2h79fxR']
 
 /*============== FlamingText ===========*/
 global.flaaa = [
@@ -180,10 +180,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_ikratos_x'
-global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
+global.stickpack = 'LateNight'
+global.stickauth = `「 AlanZaaiter 」`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ Alan'
 
 global.multiplier = 38 // The higher, The harder levelup
 
